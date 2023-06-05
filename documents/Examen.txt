@@ -1,1 +1,32 @@
 VERSIO 1 :
+He creat primer la carpeta de documentació per poder tenir una relació en ordre entre els commits i el txt.
+
+mkdir examenRecuperaciom5uf2
+cd examenRecuperaciom5uf2
+nano examen.txt
+cd ..
+nano README.MD
+omplim el arxiu
+nano AUTHOR.txt
+omplim el arxiu 
+git init 
+git remote add origin URLDELREPOSITORY
+git status -s
+git add .
+git status -s
+git commit -m "Arxius de inicialitzacio y documents"
+git push origin master
+
+
+VERSIO 2 :
+nano LICENSE 
+omplim la llicencia
+git add .
+git status -s
+git commit -m "arxiu LICENSE"
+git push origin master
+
+
+
+
+

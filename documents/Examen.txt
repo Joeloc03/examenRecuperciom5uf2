@@ -27,6 +27,18 @@ git commit -m "arxiu LICENSE"
 git push origin master
 
 
+VERSIO 3 :
+Creem un projecte de c# de tipus windows forms
+git status -s
+git add .
+git status -s
+nano .gitignore
+omplim amb /Debug per no pujar els executables
+git add .
+git status -s
+git commit -m "projecte c# i arxiu gitignore"
+git push origin master
+
 
 
 

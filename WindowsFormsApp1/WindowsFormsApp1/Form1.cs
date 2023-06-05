@@ -16,5 +16,18 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
         }
+
+        private void btViatje_Click(object sender, EventArgs e)
+        {
+            FormViatge Viatge = new FormViatge();
+            Viatge.Show();
+
+        }
+
+        private void btMenjar_Click(object sender, EventArgs e)
+        {
+            FormMenjar Menjar = new FormMenjar();
+            Menjar.Show();
+        }
     }
 }

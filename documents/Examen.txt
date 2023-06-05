@@ -48,6 +48,15 @@ git status -s
 git commit -m "modificació del projecte i creacio de botons"
 git push origin master
 
+VERSIO 5 
+modifiquem el projecte de c# afegint els dos forms i la redirecció
+git status -s
+git add .
+git status -s
+git commit -m "Creació de forms auxiliars amb redireccio"
+git push origin master
+
+
 
 
 

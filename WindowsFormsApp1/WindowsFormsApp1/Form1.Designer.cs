@@ -40,6 +40,7 @@
             this.btMenjar.TabIndex = 0;
             this.btMenjar.Text = "menjar";
             this.btMenjar.UseVisualStyleBackColor = true;
+            this.btMenjar.Click += new System.EventHandler(this.btMenjar_Click);
             // 
             // btViatje
             // 
@@ -49,6 +50,7 @@
             this.btViatje.TabIndex = 1;
             this.btViatje.Text = "viatge";
             this.btViatje.UseVisualStyleBackColor = true;
+            this.btViatje.Click += new System.EventHandler(this.btViatje_Click);
             // 
             // FrmMain
             // 

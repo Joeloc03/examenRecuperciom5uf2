@@ -64,8 +64,15 @@ modifiquem el projecte
 git add .
 git commit -m "creacio de form de animals"
 git push origin ampliacio
+
+VERSIO 7
 git checkout master
 git merge ampliacio
+
+VERSIO 8 
+guardem l'arxiu de txt
+git commit -m "Actualitzacio arxiu examen.txt"
+git push origin master
 
 
 

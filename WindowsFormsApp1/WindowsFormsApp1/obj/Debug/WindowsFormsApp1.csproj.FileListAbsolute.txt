@@ -11,3 +11,4 @@ C:\Users\JOEL\Desktop\DAM2\M5\examenRecuperaciom5uf2\WindowsFormsApp1\WindowsFor
 C:\Users\JOEL\Desktop\DAM2\M5\examenRecuperaciom5uf2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
 C:\Users\JOEL\Desktop\DAM2\M5\examenRecuperaciom5uf2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormMenjar.resources
 C:\Users\JOEL\Desktop\DAM2\M5\examenRecuperaciom5uf2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormViatge.resources
+C:\Users\JOEL\Desktop\DAM2\M5\examenRecuperaciom5uf2\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormAnimals.resources

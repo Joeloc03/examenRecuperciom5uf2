@@ -57,6 +57,17 @@ git commit -m "Creació de forms auxiliars amb redireccio"
 git push origin master
 
 
+VERSIO 6 
+git branch ampliacio
+git checkout ampliacio
+modifiquem el projecte
+git add .
+git commit -m "creacio de form de animals"
+git push origin ampliacio
+git checkout master
+git merge ampliacio
+
+
 
 
 

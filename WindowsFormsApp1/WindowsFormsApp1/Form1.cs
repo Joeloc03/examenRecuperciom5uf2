@@ -29,5 +29,11 @@ namespace WindowsFormsApp1
             FormMenjar Menjar = new FormMenjar();
             Menjar.Show();
         }
+
+        private void btAnimal_Click(object sender, EventArgs e)
+        {
+            FormAnimals Animals = new FormAnimals();
+            Animals.Show();
+        }
     }
 }
